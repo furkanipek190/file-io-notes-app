@@ -1,5 +1,19 @@
 # File I/O Notes App (Python) — Filo-Io-App
 
+## Versioning
+
+This project follows a simple semantic versioning approach.
+
+### v1.0 – Initial Stable Release
+- Core File I/O functionality
+- Add, list, delete, and search notes
+- JSON-based data persistence
+- Modular architecture (main, storage, utils, models)
+- Basic error handling for missing or invalid data files
+
+This version represents the first stable and fully functional release.
+
+
 A simple, modular **File Read/Write** (JSON-based) notes application built with Python.
 It allows you to add, list, delete, and search notes while persisting data into a local JSON file.
 
