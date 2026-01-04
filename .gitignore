@@ -17,7 +17,8 @@ env/
 Thumbs.db
 .vscode/
 
-# App data (kişisel notlar GitHub'a gitmesin)
+# App data (Personal notes shouldn't go to GitHub.)
 data.json
 backups/
 logs/
+
